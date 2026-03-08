@@ -97,12 +97,26 @@ border-radius:6px;
 }
 
 #instagram{
-background:#f4f4f4;
 padding:60px 20px;
+background:#f4f4f4;
 }
 
-#instagram .btn{
-background:#E1306C;
+.insta-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+gap:20px;
+max-width:800px;
+margin:30px auto;
+}
+
+.insta-grid img{
+width:100%;
+border-radius:10px;
+transition:0.3s;
+}
+
+.insta-grid img:hover{
+transform:scale(1.05);
 }
 
 footer{
