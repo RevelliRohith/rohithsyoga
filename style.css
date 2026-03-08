@@ -169,4 +169,26 @@ font-size:35px;
 font-size:16px;
 }
 
+
+}
+
+#registration {
+padding: 60px;
+text-align: center;
+}
+
+#registration form {
+max-width: 500px;
+margin: auto;
+display: flex;
+flex-direction: column;
+gap: 12px;
+}
+
+#registration input,
+#registration select,
+#registration textarea {
+padding: 10px;
+border-radius: 6px;
+border: 1px solid #ccc;
 }
