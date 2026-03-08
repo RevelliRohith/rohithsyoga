@@ -96,6 +96,15 @@ border:1px solid #ccc;
 border-radius:6px;
 }
 
+#instagram{
+background:#f4f4f4;
+padding:60px 20px;
+}
+
+#instagram .btn{
+background:#E1306C;
+}
+
 footer{
 background:#111;
 color:white;
