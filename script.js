@@ -133,4 +133,8 @@ let url = "https://wa.me/917680873626?text="+text;
 
 window.open(url,"_blank");
 
+/* SHOW SUCCESS MESSAGE */
+
+document.getElementById("successMsg").style.display = "block";
+
 }
