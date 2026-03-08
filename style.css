@@ -54,7 +54,7 @@ color:#ff5722;
 
 .hero{
 height:90vh;
-background:url("images/coach.jpeg") center/cover no-repeat;
+background:url("images/speech.jpeg") center/cover no-repeat;
 display:flex;
 align-items:center;
 padding-left:80px;
@@ -193,3 +193,4 @@ border-radius:50%;
 text-decoration:none;
 box-shadow:0 4px 10px rgba(0,0,0,0.4);
 }
+
